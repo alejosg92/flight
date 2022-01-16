@@ -1,0 +1,7 @@
+com\despegar\certificacion\portal\drivers\ChromeDriver.class
+com\despegar\certificacion\portal\pages\CheckOutPage.class
+com\despegar\certificacion\portal\tasks\SelectFlight.class
+com\despegar\certificacion\portal\pages\SelectFlightPage.class
+com\despegar\certificacion\portal\runner\DespegarRunner.class
+com\despegar\certificacion\portal\pages\HomePage.class
+com\despegar\certificacion\portal\stepsdefinition\SelectFlightSteps.class
